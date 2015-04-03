@@ -1,0 +1,9 @@
+{
+	"displayName": "Dehydrating",
+	"tip": "You are Dehydrating!",
+	"debuff": false,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": true
+}

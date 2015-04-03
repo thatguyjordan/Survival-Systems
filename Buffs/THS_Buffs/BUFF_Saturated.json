@@ -1,0 +1,9 @@
+{
+	"displayName": "Saturated",
+	"tip": "You are full of food! And power!",
+	"debuff": false,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": true
+}

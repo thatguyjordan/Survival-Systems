@@ -1,0 +1,28 @@
+{
+	"displayName": "Grill-Stove",
+	"mapHoverText": "Grill-Stove",
+	"size": [3,3],	
+	"frameWidth": 16,
+	"frameHeight": 16,
+	"frameImportant": true,
+	"sheetColumns": 3,
+	"sheetRows": 3,
+
+	"solid": false,
+	"blocksLight": false,
+	"blocksSun": false,
+	"mergeDirt": false,
+
+	"drop": "ToRT_Hunger:GrillStove",
+	"placementConditions": "flatGround",
+	//"directional": true,	
+	
+	"glows": true,  // uses modify light
+	//"shines": true,
+
+	"breaksByPick": false,	
+	"breaksByAxe": false,	
+	"breaksByHammer": true,	
+	"dust": 36
+	//"sound": 2	//
+}

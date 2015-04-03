@@ -1,0 +1,9 @@
+{
+	"displayName": "Starving",
+	"tip": "You are starving!",
+	"debuff": false,
+	"vanityPet": false,
+	"lightPet": false,
+	"enchantment": false,
+	"noTimer": true
+}

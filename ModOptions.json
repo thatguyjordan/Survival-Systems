@@ -1,0 +1,19 @@
+{
+"options": 
+    [{
+        "name": "hungerRate",
+        "displayName": "Hunger Rate",
+        "type": "List",
+        "notify": true,
+        "list": ["Slower - 1", "Normal - 1.5"],
+        "default": 1.5
+    },
+    {
+        "name": "thirstRate",
+        "displayName": "Thirst Rate",
+        "type": "List",
+        "notify": true,
+        "list": ["Slower - 1", "Normal - 1.5", "DEBUG"],
+        "default": 1.5
+    }]
+}

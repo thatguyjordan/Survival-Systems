@@ -1,0 +1,27 @@
+﻿{
+	"displayName": "Grill-Stove",
+	"size": [40,42],
+	"skale": 1,
+
+	"useStyle": 1,
+	"useAnimation": 15,
+	"useTime": 7,
+	"useSound": 1,
+	"useTurn": true,
+	"autoReuse": true,
+
+	"consumable": true,
+	"createTile": "ToRT_Hunger:GrillStoveTile",
+
+	"tooltip": "Used for cooking!",
+	"maxStack": 5,
+	"value": [0,0,8,50],	
+	"rare": 1,
+
+	"recipes":
+	[{
+		"items": { "Gray Brick": 20, "Iron Bar": 12, "Wood": 5, "Torch": 7 },
+		"tiles": [ "Work Bench" ], 
+		"creates": 1
+	}]
+}
